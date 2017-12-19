@@ -12,5 +12,7 @@ Comming soon... going through an extensive code rework to be ready for publishin
 # Get in touch
 
 Github: prcolaco
+
 Steemit: @prc
+
 Utopian: @prc
